@@ -1,0 +1,4 @@
+/.well-known/ddos-guard/js-challenge/index.css
+/.well-known/ddos-guard/js-challenge/index.js
+/.well-known/ddos-guard/js-challenge/view.js
+https://check.ddos-guard.net/check.js
